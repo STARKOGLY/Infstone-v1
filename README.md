@@ -12,11 +12,4 @@ SCAN A SUBNET
 
   SCAN FROM FILE IPS.TXT
   - ```python3 idrac_scanner.py ips.txt ```
- 
-
-
-
-
-
-
                        MADE BY STARK 
